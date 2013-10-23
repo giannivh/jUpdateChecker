@@ -34,9 +34,9 @@
     <!-- Code management -->
     <scm>
         <tag>HEAD</tag>
-        <url>https://github.com/giannivh/jUpdateChecker</url>
-        <connection>scm:git:ssh://github.com/giannivh/jUpdateChecker</connection>
-        <developerConnection>scm:git:ssh://github.com/giannivh/jUpdateChecker</developerConnection>
+        <url>https://git@github.com/giannivh/jUpdateChecker</url>
+        <connection>scm:git:ssh://git@github.com/giannivh/jUpdateChecker</connection>
+        <developerConnection>scm:git:ssh://git@github.com/giannivh/jUpdateChecker</developerConnection>
     </scm>
 
     <!-- Distribution -->
