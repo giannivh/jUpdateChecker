@@ -8,7 +8,7 @@
 
     <groupId>com.giannivanhoecke</groupId>
     <artifactId>jupdate-checker</artifactId>
-    <version>0.1</version>
+    <version>GIT-SNAPSHOT</version>
     <inceptionYear>2013</inceptionYear>
     <packaging>pom</packaging>
 

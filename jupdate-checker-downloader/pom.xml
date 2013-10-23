@@ -5,7 +5,7 @@
     <parent>
         <artifactId>jupdate-checker</artifactId>
         <groupId>com.giannivanhoecke</groupId>
-        <version>0.1</version>
+        <version>GIT-SNAPSHOT</version>
     </parent>
 
     <groupId>com.giannivanhoecke.jupdate-checker</groupId>
