@@ -60,6 +60,7 @@
         <maven-resources-plugin.version>2.3</maven-resources-plugin.version>
         <maven-release-plugin.version>2.1</maven-release-plugin.version>
         <maven-deploy-plugin.version>2.7-7l</maven-deploy-plugin.version>
+        <compiler.version>2.0.2</compiler.version>
     </properties>
 
     <!-- Profiles -->
