@@ -24,7 +24,7 @@ How to use
 
 Add the maven repo to your pom file:
 
-```java
+```xml
 <repositories>
     <repository>
         <id>giannivanhoecke</id>
@@ -40,7 +40,7 @@ Add the maven repo to your pom file:
 ```
 
 Add the dependency to your pom file:
-```java
+```xml
 <dependencies>
     <dependency>
         <groupId>com.giannivanhoecke.jupdate-checker</groupId>
